@@ -90,6 +90,7 @@ object BaessieBuild extends Build {
           <developer>
             <id>argoyle</id>
             <name>Joakim Olsson</name>
+            <email>joakim@unbound.se</email>
             <url>https://github.com/argoyle</url>
           </developer>
         </developers>
